@@ -34,17 +34,17 @@ This project was created to practice state management, event handling, and React
 git clone https://github.com/Luis-Fernando-Vargas/my-react-project-4-tasks.git
 ```
 
-2. Navigate to the project folder
+2. **Navigate to the project folder**
 
 ```bash
 cd my-react-project-4-tasks
 ```
-3. Install dependencies
+3. **Install dependencies**
 ```bash
 npm install
 ```
 
-4. Start the development server
+4. **Start the development server**
 ```bash
 npm run dev
 ```
