@@ -22,6 +22,7 @@ This project was created to practice state management, event handling, and React
 - **JavaScript (ES6+)**
 - **CSS** – Custom styles
 
+## 🖼️ Screenshot
 
 ![Task app](https://github.com/user-attachments/assets/37b395d7-3a09-45c1-a736-45591c256ea0)
 
